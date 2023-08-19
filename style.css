@@ -20,9 +20,6 @@ body {
       rgba(0, 0, 0, 0.8) 100%
     ), url(./imagens/banner.png);
     background-size: cover;
-    /* background-size: 100%;
-    background-repeat: no-repeat;
-    overflow: auto; */
 }
 
 .header {
